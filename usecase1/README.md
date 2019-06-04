@@ -1,5 +1,6 @@
 # CPU output
 
+```text
 Profile Statistics.
         Note that counter items are counter values and not time units.
 Device Storage
@@ -60,11 +61,12 @@ mean                                    2           0.0620           0.0300     
 _backward_Activation                    6           1.3600           0.0460           0.5740           0.2267
 multi_sgd_update                        4           1.3740           0.0640           0.6230           0.3435
 
-
+```
 ------------------------------------------------------------------------
 
 # GPU output
 
+```text
 Profile Statistics.
         Note that counter items are counter values and not time units.
 Device Storage
@@ -127,3 +129,4 @@ multi_sgd_update                        4           0.2890           0.0450     
 mean                                    2           0.0750           0.0360           0.0390           0.0375
 _backward_log_softmax                   2           0.1140           0.0560           0.0580           0.0570
 
+```
