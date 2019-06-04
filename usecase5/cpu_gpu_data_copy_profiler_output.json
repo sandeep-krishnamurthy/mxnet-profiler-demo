@@ -1,0 +1,1553 @@
+{
+    "traceEvents": [
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/0"
+            },
+            "pid": 0,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/1"
+            },
+            "pid": 1,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/2"
+            },
+            "pid": 2,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/3"
+            },
+            "pid": 3,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/4"
+            },
+            "pid": 4,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/5"
+            },
+            "pid": 5,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/6"
+            },
+            "pid": 6,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/7"
+            },
+            "pid": 7,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/8"
+            },
+            "pid": 8,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/9"
+            },
+            "pid": 9,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/10"
+            },
+            "pid": 10,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/11"
+            },
+            "pid": 11,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/12"
+            },
+            "pid": 12,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/13"
+            },
+            "pid": 13,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/14"
+            },
+            "pid": 14,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/15"
+            },
+            "pid": 15,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/16"
+            },
+            "pid": 16,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/17"
+            },
+            "pid": 17,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/18"
+            },
+            "pid": 18,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/19"
+            },
+            "pid": 19,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/20"
+            },
+            "pid": 20,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/21"
+            },
+            "pid": 21,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/22"
+            },
+            "pid": 22,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/23"
+            },
+            "pid": 23,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/24"
+            },
+            "pid": 24,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/25"
+            },
+            "pid": 25,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/26"
+            },
+            "pid": 26,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/27"
+            },
+            "pid": 27,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/28"
+            },
+            "pid": 28,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/29"
+            },
+            "pid": 29,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/30"
+            },
+            "pid": 30,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu/31"
+            },
+            "pid": 31,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/0"
+            },
+            "pid": 32,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/1"
+            },
+            "pid": 33,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/2"
+            },
+            "pid": 34,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/3"
+            },
+            "pid": 35,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/4"
+            },
+            "pid": 36,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/5"
+            },
+            "pid": 37,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/6"
+            },
+            "pid": 38,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/7"
+            },
+            "pid": 39,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/8"
+            },
+            "pid": 40,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/9"
+            },
+            "pid": 41,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/10"
+            },
+            "pid": 42,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/11"
+            },
+            "pid": 43,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/12"
+            },
+            "pid": 44,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/13"
+            },
+            "pid": 45,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/14"
+            },
+            "pid": 46,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/15"
+            },
+            "pid": 47,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/16"
+            },
+            "pid": 48,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/17"
+            },
+            "pid": 49,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/18"
+            },
+            "pid": 50,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/19"
+            },
+            "pid": 51,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/20"
+            },
+            "pid": 52,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/21"
+            },
+            "pid": 53,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/22"
+            },
+            "pid": 54,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/23"
+            },
+            "pid": 55,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/24"
+            },
+            "pid": 56,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/25"
+            },
+            "pid": 57,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/26"
+            },
+            "pid": 58,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/27"
+            },
+            "pid": 59,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/28"
+            },
+            "pid": 60,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/29"
+            },
+            "pid": 61,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/30"
+            },
+            "pid": 62,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "gpu/31"
+            },
+            "pid": 63,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu pinned/"
+            },
+            "pid": 64,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "cpu shared/"
+            },
+            "pid": 65,
+            "name": "process_name"
+        },        {
+            "ph": "M",
+            "args": {
+                "name": "MXNET_C_API"
+            },
+            "pid": 849786139768988538,
+            "name": "process_name"
+        },
+
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672136300939,
+        "args": { "MXNet C API Calls": 1 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672136300951,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayGetContext",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 1559672136300959,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayGetContext",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 1559672136300960,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672136300962,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672136300987,
+        "args": { "MXNet C API Calls": 2 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672136300988,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayGetShape",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 1559672136300990,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayGetShape",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 1559672136300992,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672136300993,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672136301009,
+        "args": { "MXNet C API Calls": 3 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672136301010,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayGetDType",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 1559672136301013,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayGetDType",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 1559672136301014,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672136301016,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672136301100,
+        "args": { "MXNet C API Calls": 4 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672136301102,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayCreateEx",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 1559672136301104,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayCreateEx",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 1559672136301110,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672136301112,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672136301220,
+        "args": { "MXNet C API Calls": 5 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672136301221,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+
+    {
+        "name": "broadcast_add",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 1559672137889913,
+        "pid": 0,
+        "tid": 3760255080296381783
+    }
+,
+    {
+        "name": "broadcast_add",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 1559672137933141,
+        "pid": 0,
+        "tid": 3760255080296381783
+    }
+,
+    {
+        "name": "MXImperativeInvokeEx",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 1559672136301224,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXImperativeInvokeEx",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 1559672137889467,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889471,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889543,
+        "args": { "MXNet C API Calls": 6 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889545,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayFree",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 1559672137889549,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayFree",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 1559672137889550,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889551,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889571,
+        "args": { "MXNet C API Calls": 7 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889571,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayGetContext",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 1559672137889573,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayGetContext",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 1559672137889574,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889575,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889590,
+        "args": { "MXNet C API Calls": 8 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889591,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayGetShape",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 1559672137889592,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayGetShape",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 1559672137889593,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889594,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889603,
+        "args": { "MXNet C API Calls": 9 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889604,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayGetDType",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 1559672137889605,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayGetDType",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 1559672137889605,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889606,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889634,
+        "args": { "MXNet C API Calls": 10 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889635,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayCreateEx",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 1559672137889636,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayCreateEx",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 1559672137889641,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889642,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889686,
+        "args": { "MXNet C API Calls": 11 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889687,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXImperativeInvokeEx",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 1559672137889688,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXImperativeInvokeEx",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 1559672137889741,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889742,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889749,
+        "args": { "MXNet C API Calls": 12 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889750,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayFree",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 1559672137889751,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayFree",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 1559672137889751,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889752,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889840,
+        "args": { "MXNet C API Calls": 13 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889841,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXImperativeInvokeEx",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 1559672137889842,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXImperativeInvokeEx",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 1559672137889888,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889889,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889913,
+        "args": { "MXNet C API Calls": 14 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889913,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayGetContext",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 1559672137889915,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayGetContext",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 1559672137889915,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889919,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,        {
+            "ph": "M",
+            "args": {
+                "name": "Device Storage"
+            },
+            "pid": 9785678402843609691,
+            "name": "process_name"
+        },
+
+    {
+        "name": "Memory: cpu/0",
+        "cat": "Device Storage",
+        "ph": "C",
+        "ts": 1559672137889951,
+        "args": { "Memory: cpu/0": 400000000 },
+        "pid": 9785678402843609691,
+        "tid": 3760255080296381783
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889927,
+        "args": { "MXNet C API Calls": 15 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "Memory: gpu/0",
+        "cat": "Device Storage",
+        "ph": "C",
+        "ts": 1559672137890973,
+        "args": { "Memory: gpu/0": 400000000 },
+        "pid": 9785678402843609691,
+        "tid": 13084354670121613409
+    }
+,        {
+            "ph": "M",
+            "args": {
+                "name": "operator"
+            },
+            "pid": 3060606181218273969,
+            "name": "process_name"
+        },
+
+    {
+        "name": "broadcast_add",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 1559672137889914,
+        "id": 3760255080296381783,
+        "pid": 3060606181218273969,
+        "tid": 3760255080296381783
+    }
+,
+    {
+        "name": "broadcast_add",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 1559672137933136,
+        "id": 3760255080296381783,
+        "pid": 3060606181218273969,
+        "tid": 3760255080296381783
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672137889928,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+
+    {
+        "name": "CopyCPU2GPU",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 1559672137889753,
+        "pid": 32,
+        "tid": 11703719396432491370
+    }
+,
+    {
+        "name": "CopyCPU2GPU",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 1559672138023977,
+        "pid": 32,
+        "tid": 11703719396432491370
+    }
+,
+
+    {
+        "name": "CopyCPU2GPU",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 1559672137889471,
+        "pid": 32,
+        "tid": 13084354670121613409
+    }
+,
+    {
+        "name": "CopyCPU2GPU",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 1559672137970449,
+        "pid": 32,
+        "tid": 13084354670121613409
+    }
+,
+
+    {
+        "name": "DeleteVariable",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 1559672138024026,
+        "pid": 32,
+        "tid": 11703719396432491370
+    }
+,
+    {
+        "name": "DeleteVariable",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 1559672138024036,
+        "pid": 32,
+        "tid": 11703719396432491370
+    }
+,
+
+    {
+        "name": "DeleteVariable",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 1559672137970501,
+        "pid": 32,
+        "tid": 13084354670121613409
+    }
+,
+    {
+        "name": "DeleteVariable",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 1559672137971490,
+        "pid": 32,
+        "tid": 13084354670121613409
+    }
+,
+    {
+        "name": "Memory: gpu/0",
+        "cat": "Device Storage",
+        "ph": "C",
+        "ts": 1559672137971462,
+        "args": { "Memory: gpu/0": 800000000 },
+        "pid": 9785678402843609691,
+        "tid": 11703719396432491370
+    }
+,
+    {
+        "name": "CopyCPU2GPU",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 1559672137889753,
+        "id": 11703719396432491370,
+        "pid": 3060606181218273969,
+        "tid": 11703719396432491370
+    }
+,
+    {
+        "name": "CopyCPU2GPU",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 1559672138023967,
+        "id": 11703719396432491370,
+        "pid": 3060606181218273969,
+        "tid": 11703719396432491370
+    }
+,
+    {
+        "name": "CopyCPU2GPU",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 1559672137889472,
+        "id": 13084354670121613409,
+        "pid": 3060606181218273969,
+        "tid": 13084354670121613409
+    }
+,
+    {
+        "name": "CopyCPU2GPU",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 1559672137970444,
+        "id": 13084354670121613409,
+        "pid": 3060606181218273969,
+        "tid": 13084354670121613409
+    }
+,
+    {
+        "name": "Memory: gpu/0",
+        "cat": "Device Storage",
+        "ph": "C",
+        "ts": 1559672138024033,
+        "args": { "Memory: gpu/0": 0 },
+        "pid": 9785678402843609691,
+        "tid": 11703719396432491370
+    }
+,
+    {
+        "name": "Memory: gpu/0",
+        "cat": "Device Storage",
+        "ph": "C",
+        "ts": 1559672137971486,
+        "args": { "Memory: gpu/0": 400000000 },
+        "pid": 9785678402843609691,
+        "tid": 13084354670121613409
+    }
+,
+    {
+        "name": "MXNDArrayWaitAll",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 1559672137889929,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "MXNDArrayWaitAll",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 1559672138024060,
+        "id": 602310518397221010,
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+,
+    {
+        "name": "DeleteVariable",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 1559672138024027,
+        "id": 11703719396432491370,
+        "pid": 3060606181218273969,
+        "tid": 11703719396432491370
+    }
+,
+    {
+        "name": "DeleteVariable",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 1559672138024035,
+        "id": 11703719396432491370,
+        "pid": 3060606181218273969,
+        "tid": 11703719396432491370
+    }
+,
+    {
+        "name": "DeleteVariable",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 1559672137970503,
+        "id": 13084354670121613409,
+        "pid": 3060606181218273969,
+        "tid": 13084354670121613409
+    }
+,
+    {
+        "name": "DeleteVariable",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 1559672137971488,
+        "id": 13084354670121613409,
+        "pid": 3060606181218273969,
+        "tid": 13084354670121613409
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 1559672138024066,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 849786139768988538,
+        "tid": 602310518397221010
+    }
+
+
+    ],
+    "displayTimeUnit": "ms"
+}
