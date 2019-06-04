@@ -3,3 +3,4 @@
 Below screenshot shows an abnormal amount of time taken by RNN operator in of the example.
 
 
+![profile_out](./profile_out.jpg)
